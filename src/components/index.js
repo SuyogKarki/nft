@@ -1,0 +1,13 @@
+export { default as MainArea } from './MainArea';
+export { default as MainContent } from './MainContent';
+export { default as Navbar } from './Navbar';
+export { default as SmallHeading } from './SmallHeading';
+export { default as CtaButton } from './CtaButton';
+export { default as BodyContent } from './BodyContent';
+export { default as MainTitle } from './MainTitle';
+export { default as SellerCard } from './SellerCard';
+export { default as BlogsSection } from './BlogsSection';
+export { default as GradientCardSection } from './GradientCardSection';
+export { default as GradientCard } from './GradientCard';
+export { default as DemoSection } from './DemoSection';
+export { default as ContactSection } from './ContactSection';
